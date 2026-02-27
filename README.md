@@ -16,6 +16,9 @@
 - condicionais
 - listas
 - loops
+### topicos aprendidos na aula 4
+- switch-case
+- interatividade com console prompt-sync
 ### IFSP Boituva
 [Site Oficial do IFSP Boituva](https://btv.ifsp.edu.br)
 
