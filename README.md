@@ -16,9 +16,10 @@
 - condicionais
 - listas
 - loops
-### topicos aprendidos na aula 4
 - switch-case
 - interatividade com console prompt-sync
+### topicos aprendidos na aula 4
+- atividade avaliativa construcao de interface de linha de comando (CLI)
 ### IFSP Boituva
 [Site Oficial do IFSP Boituva](https://btv.ifsp.edu.br)
 
