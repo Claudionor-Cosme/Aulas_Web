@@ -22,5 +22,8 @@
 - atividade avaliativa construcao de interface de linha de comando (CLI)
 ### IFSP Boituva
 [Site Oficial do IFSP Boituva](https://btv.ifsp.edu.br)
-
+### topicos aprendidos durante a aula 5
+- funcoes
+- arrow functions
+- atividades sobre funcoes
 
