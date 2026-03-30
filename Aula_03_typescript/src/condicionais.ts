@@ -1,4 +1,4 @@
-let idade: number = 18;
+let idade: number = 15;
 
 if (idade <12){
     console.log("Criança")

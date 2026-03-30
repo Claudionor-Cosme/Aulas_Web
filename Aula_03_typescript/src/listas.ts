@@ -1,19 +1,25 @@
-let nomes: string[] = ["ana", "joão", "elvis"];
-console.log(nomes)
-
+//lista de números
 let numeros: number[] = [1, 2, 3, 4];
 
 console.log("Numeros pos 01: ", numeros[1]);
 
-console.log("numeros pos 01: ", numeros[1]);
+console.log("numeros pos 02: ", numeros[2]);
 
+//lista de strings
+let nomes: string[] = ["ana", "joão", "elvis"];
 console.log(nomes.indexOf("joao"));
+
+console.log(nomes)
 
 nomes.splice(1,1)
 
 console.log("Depois do splice: ", nomes)
 
+//lista genérica (usando array <tipo>)
 let years: Array< number > = [20, 30, 40];
+
+//lista com tipos mistos (usando Union Types)
+let misto: (number | string) [] = [1, "dois", 3, "quatro"];
 
 let fruits: string[] = ["banana", "maçã"];
 
