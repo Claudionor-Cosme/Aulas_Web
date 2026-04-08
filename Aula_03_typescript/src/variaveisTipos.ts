@@ -18,6 +18,16 @@ console.log(`Nome: ${nome}, Idade: ${idade}, Ativo: ${ativo}`);
 //typeof retorna uma string que que indica o tipo do operando
 console.log(typeof valor); //output: number
 
+let texto: string = "ola";
+console.log(texto);
+texto = "A" + texto.substring(1);
+console.log(texto);
+
+
+
+
+
+
 
 
 
