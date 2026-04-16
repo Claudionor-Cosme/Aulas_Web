@@ -13,3 +13,5 @@ const pessoa = new Pessoa("claudio", 10, endereco, contato);
 const medico = new Medico(pessoa, "cirurgiao");
 const paciente = new Paciente(pessoa, remedio);
 const prontuario1: Prontuario = new Prontuario(paciente, medico, remedio);
+
+prontuario1.exibir();
